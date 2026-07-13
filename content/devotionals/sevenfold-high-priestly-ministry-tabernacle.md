@@ -1,5 +1,5 @@
 ---
-title: Sevenfold High Priestly Ministry of the Lord Jesus Christ Seen Through the Tabernacle
+title: Christ's Sevenfold High Priestly Ministry in the Tabernacle
 ---
 
 # Sevenfold High Priestly Ministry of the Lord Jesus Christ Seen Through the Tabernacle

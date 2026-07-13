@@ -1,3 +1,73 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+.page > #quartz-body {
+  grid-template:
+    "grid-sidebar-left grid-header"
+    "grid-sidebar-left grid-center"
+    "grid-sidebar-left grid-sidebar-right"
+    "grid-sidebar-left grid-footer"
+    / 350px auto;
+}
+
+.page > #quartz-body .sidebar {
+  padding-top: 1rem;
+}
+
+.explorer-content .folder-outer > ul {
+  border-left: 0;
+}
+
+.explorer-content .folder-outer > ul > li {
+  list-style: none;
+  display: flex;
+  align-items: flex-start;
+}
+
+.explorer-content .folder-outer > ul > li::before {
+  content: "·";
+  margin-right: 8px;
+  flex-shrink: 0;
+}
+
+.explorer button.desktop-explorer {
+  display: none;
+}
+
+.explorer-content .folder-outer > ul > li > .tree-item-inner {
+  flex: 1;
+}
+
+.folder-button {
+  color: #000000;
+}
+
+.folder-container {
+  margin-bottom: 0.4rem;
+  margin-top: 1rem;
+}
+
+.page-title {
+  color: #000000;
+  display: none;
+}
+
+.folder-title {
+  font-size: x-large;
+}
+
+.nav-file-title {
+  color: darkred;
+}
+
+.nav-file-title.active {
+  color: #000000;
+}
+
+.page-header {
+  margin-top: 0;
+}
+
+.explorer svg {
+ height: 6px;
+}

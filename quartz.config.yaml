@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Meditations
+  pageTitle: Treasures in Christ
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -21,7 +21,7 @@ configuration:
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#F1F3F4"
+        light: "#FFFFFF"
         lightgray: "#DADCE0"
         gray: "#9AA0A6"
         darkgray: "#5F6368"
@@ -154,7 +154,7 @@ plugins:
 #      position: right
 #      priority: 10
   - source: github:quartz-community/search
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 20
@@ -172,7 +172,7 @@ plugins:
       position: beforeBody
       priority: 10
   - source: github:quartz-community/content-meta
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 20
@@ -187,13 +187,13 @@ plugins:
       position: left
       priority: 10
   - source: github:quartz-community/darkmode
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 30
       group: toolbar
   - source: github:quartz-community/reader-mode
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 35
