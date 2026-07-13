@@ -1,6 +1,5 @@
 ---
 title: "Together with Christ"
-date: 2026-07-13
 ---
 
 One of the greatest truths of the New Testament is that the believer is united with Christ. We are not just forgiven by Him or helped by Him. We have been brought into living union with Him.

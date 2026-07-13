@@ -1,6 +1,5 @@
 ---
 title: "Consider Him"
-date: 2026-07-13
 ---
 
 ## 1. Consider Him

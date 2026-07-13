@@ -1,6 +1,5 @@
 ---
 title: "Lamb of God"
-date: 2026-07-14
 ---
 
 When people hear the word **"lamb,"** they think gentle, soft, peaceful.
