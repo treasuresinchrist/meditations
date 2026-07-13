@@ -76,7 +76,7 @@ The One with whom we died, now live, and suffer is also the One with whom we sha
 
 ---
 
-# Our Life with Christ
+**Our Life with Christ**
 
 1. **Planted together** — We died with Christ.
 2. **Quickened together** — We live with Christ.
