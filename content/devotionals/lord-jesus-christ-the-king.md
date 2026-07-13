@@ -2,7 +2,7 @@
 title: Lord Jesus Christ - The King
 ---
 
-## Lord Jesus is the:
+Lord Jesus is the:
 
 ## 1. King of Glory
 

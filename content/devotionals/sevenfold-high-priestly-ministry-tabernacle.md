@@ -2,8 +2,6 @@
 title: Christ's Sevenfold High Priestly Ministry in the Tabernacle
 ---
 
-# Sevenfold High Priestly Ministry of the Lord Jesus Christ Seen Through the Tabernacle
-
 The Tabernacle, in its structure, furniture, and order of approach, has everything pointing to the Person and Work of our Lord Jesus Christ.
 
 Each step draws us nearer, from the outer court to the Most Holy Place, revealing how Christ brings sinners into communion with God.
