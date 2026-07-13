@@ -3,8 +3,6 @@ title: "Lamb of God"
 date: 2026-07-14
 ---
 
-# Lamb of God
-
 When people hear the word **"lamb,"** they think gentle, soft, peaceful.
 
 But for an Israelite, a lamb meant **sacrifice**.

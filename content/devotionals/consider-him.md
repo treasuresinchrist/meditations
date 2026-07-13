@@ -3,8 +3,6 @@ title: "Consider Him"
 date: 2026-07-13
 ---
 
-# Consider Him
-
 ## 1. Consider Him
 
 > For consider him that endured such contradiction of sinners against himself, lest ye be wearied and faint in your minds.  
