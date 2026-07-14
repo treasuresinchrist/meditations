@@ -10,8 +10,8 @@ Christ.
 
 ## 1. The Old Man Crucified
 
-> **"Knowing this, that our old man is crucified with him..."** ---
-> **Romans 6:6**
+> **"Knowing this, that our old man is crucified with him..."**  
+> — Romans 6:6
 
 The expression **"crucified with"** means to be crucified in company
 with another, just as the two thieves were crucified with the Lord
@@ -29,7 +29,8 @@ Our old habits formed in sin should no longer dominate us when we see them at Ca
 
 ## 2. Self Crucified
 
-> **"I am crucified with Christ."** --- **Galatians 2:20**
+> **"I am crucified with Christ."**  
+> — Galatians 2:20
 
 This is not **self-crucifixion**, but **crucifixion with Christ**.
 
@@ -48,7 +49,8 @@ us.
 ## 3. The Flesh Crucified
 
 > **"They that are Christ's have crucified the flesh with the affections
-> and lusts."** --- **Galatians 5:24**
+> and lusts."**  
+> — Galatians 5:24
 
 The **flesh** is the sinful principle that remains in every believer. It
 cannot be improved or educated; it is incurably opposed to God.
@@ -64,8 +66,8 @@ sentence of the Cross.
 
 ## 4. The World Crucified
 
-> **"By whom the world is crucified unto me, and I unto the world."**
-> --- **Galatians 6:14**
+> **"By whom the world is crucified unto me, and I unto the world."**  
+> — Galatians 6:14
 
 The **world** is man's organized system apart from God---its religion,
 wisdom, pleasures, ambitions, and glory.
@@ -92,10 +94,10 @@ upon the heart that has seen Christ upon the Cross.
 
 The Cross of Christ speaks of four great crucifixions in relation to the believer:
 
-1.  **The Old Man Crucified** - Romans 6:6
-2.  **Self Crucified** - Galatians 2:20
-3.  **The Flesh Crucified** - Galatians 5:24
-4.  **The World Crucified** - Galatians 6:14
+1.  **The Old Man Crucified** - Romans 6:6.
+2.  **Self Crucified** - Galatians 2:20.
+3.  **The Flesh Crucified** - Galatians 5:24.
+4.  **The World Crucified** - Galatians 6:14.
 
 The Cross not only saves us from the penalty of sin, but also teaches us
 how to live. The old man has been judged, self has been displaced, the
