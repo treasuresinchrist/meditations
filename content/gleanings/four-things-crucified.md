@@ -89,7 +89,6 @@ upon the heart that has seen Christ upon the Cross.
 
 ------------------------------------------------------------------------
 
-## Summary
 
 The Cross of Christ speaks of four great crucifixions in relation to the believer:
 
