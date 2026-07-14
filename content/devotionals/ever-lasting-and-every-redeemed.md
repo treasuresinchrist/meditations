@@ -18,6 +18,5 @@ Yet this enduring mercy is not distant or static. Scripture also tells us, **"Th
 
 Thus, the believer stands upheld by a mercy that is both **infinite and intimate**—enduring forever in its nature and ever-renewed in its expression; ancient as eternity, yet fresh as the morning light.
 
----
 
 **Truly, the mercy of our God is fresh each morning, yet unchanging forever.**
