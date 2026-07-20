@@ -1,5 +1,5 @@
 ---
-title: Some Divine Certainties
+title: Six Divine Certainties
 ---
 One of the greatest blessings in a believer's life is to have the heart established in the certainty of God's Word. Throughout Scripture, God has not left His people to uncertainty or speculation. Again and again, He gives us truths that are firm, unchanging, and worthy of complete confidence.
 
